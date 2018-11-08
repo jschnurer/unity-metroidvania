@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Pickup
+  - Enemy
+  - Component
+  - Lava
+  - PhasewalkTiles
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Phasewalk
+  - Player
+  - PlayerOnlyTrigger
+  - EnemyCollidersLayer
+  - PlayerCameraBounds
+  - CameraBounds
+  - BlinkEmitter
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG Layer
+    uniqueID: 3144198151
+    locked: 0
+  - name: Underlay Layer
+    uniqueID: 3525900213
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overlay Layer
+    uniqueID: 4191015459
+    locked: 0
